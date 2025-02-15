@@ -21,26 +21,60 @@
 
 > • Vercel搭建之API系列 
 
-- [**Notionnext-Twikoo**](https://www.ifsoledad.eu.org)[**域名：https://www.ifsoledad.eu.org**]
+- [**Notionnext-Twikoo**](https://www.ifsoledad.eu.org)
+- [**域名：https://www.ifsoledad.eu.org**]
+
 - [waline评论系统](https://waline.cares.eu.org)
+- [**域名：https://waline.cares.eu.org**]
+
 - [waline评论系统后台](https://waline.cares.eu.org/ui)
+- [**域名：https://waline.cares.eu.org/ui**]
+
 - [Meting-API Meting](https://meting.cares.eu.org/api)
+- [**域名：https://meting.cares.eu.org/api**]
+
 - [**neteasecloudmusicapi**](https://netease.cares.eu.org)
+- [**域名：https://netease.cares.eu.org**]
+
 - [KuGouMusicApi](https://kugou.cares.eu.org)
+- [**域名：https://kugou.cares.eu.org**]
+
 - [awesome-notion-widgets](https://widgets.cares.eu.org)
+- [**域名：https://widgets.cares.eu.org**]
+
 - [DailyHotApi-Vercel](https://hotapi.cares.eu.org)
+- [**域名：https://hotapi.cares.eu.org**]
+
 - [**jsDelivr**](https://cdn.cares.eu.org)
+- [**域名：https://cdn.cares.eu.org**]
 - [jsDelivr使用实例](https://cdn.cares.eu.org/gh/Soledadrs/tuchuang/images/gif/100.100/hanke.gif)
+
 - [Notionnext](https://www.277788.xyz)
+- [**域名：https://www.277788.xyz**]
 
 > • Cloudflare Page自建系列 
 
 - [**SoledadHomePage**](https://www.oneself.eu.org)
+- [**域名：https://www.oneself.eu.org**]
+
 - [noiseworkHomePage](https://www.277711.xyz)
+- [**域名：https://www.277711.xyz**]
+
 - [bookmarks](https://www.soledad.cloudns.asia)
+- [**域名：https://www.soledad.cloudns.asia**]
+
 - [snavdev起始页](https://www.ifcare.eu.org)
+- [**域名：https://www.ifcare.eu.org**]
 
 - [**SPlayer**](https://www.ifemby.eu.org)
+- [**域名：https://www.ifemby.eu.org**]
+
 - [SiteStatus](https://www.creators.eu.org)
+- [**域名：https://www.creators.eu.org**]
+
 - [picx](https://www.soledad.cloudns.biz)
+- [**域名：https://www.soledad.cloudns.biz**]
+
 - [Memos API](https://memos.cares.eu.org)
+- [**域名：https://memos.cares.eu.org**]
+
